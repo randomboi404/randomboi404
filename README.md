@@ -1,73 +1,76 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8562d0&size=35&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+profile!;My+name+is+Random+Boi;I'm+a+Developer+as+well+as+a+Student;Passionate+about+coding+and+learning+new+technologies.;Exploring+the+world+of+software+development.;Always+eager+to+collaborate+on+exciting+projects!)
+<h2 align="left">Hi 👋! I use Arch btw.</h2>
 
-<h3 align="center">"Only wimps use tape backup. REAL men just upload their important stuff on ftp and let the rest of the world mirror it."</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+###
 
-<br>
 <div align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=randomboi404&label=Profile%20views&style=aura&color=5865F2">
-  <img alt="Discord status" src="https://api.statusbadges.me/badge/status/806782240851886091?label=Currently&labelColor=5865F2">
-  <img alt="Currently playing" src="https://api.statusbadges.me/badge/playing/806782240851886091?label=Playing">
-  <img alt="Currently coding" src="https://api.statusbadges.me/badge/vscode/806782240851886091?label=Coding">
-  <a href="https://api.statusbadges.me/openspotify/806782240851886091" target="_blank" rel="noopener">
-      <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/806782240851886091?label=Listening%20to">
-  </a><br>
-<p align="center">I use Arch btw</p>
-
-</div>
-<br>
-<div align="center" style="margin-bottom:250px">
- <img width=45% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api?username=randomboi404&include_all_commits=true&count_private=true&theme=aura&show_icons=true" />
-  <img width=45% align="center" src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=randomboi404&theme=aura" />
- <br><br>
- <img width=40% align="center" src="https://github-readme-stats-lac-sigma.vercel.app/api/top-langs/?username=randomboi404&layout=compact&theme=aura" />
+  <img src="https://github-readme-stats.vercel.app/api?username=randomboi404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randomboi404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<br>
+###
 
-## Language and Tools
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Languages:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>]()
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://assets.exercism.org/tracks/x86-64-assembly.svg"/>]()
- 
-
-
-#### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>](https://www.gnu.org/software/bash/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-
-#### Tools:
-
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arch"/>](https://archlinux.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=neovim"/>]()
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vim"/>]()
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscodium"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>]()
- 
-
-<br>
-
-
-
-<!-- ## Contact me:
-<!-- <div> 
-<a href="https://trix.is-a.dev" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=ros" target="_blank"></a>
-<a href="https://discord.dog/885063317079592961" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=discord" target="_blank"></a>
-<a href = "mailto:admin@trix.is-a.dev"><img loading="lazy" src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
 </div>
 
+###
 
-------
+<div align="left">
+  <a href="randomboiii5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-Last Edited on: 03/10/2024 -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/randomboi404/randomboi404/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/randomboi404/randomboi404/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/randomboi404/randomboi404/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/randomboi404/randomboi404/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/uhe2ugduju0tgkd7tn7uujpid">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=uhe2ugduju0tgkd7tn7uujpid&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
