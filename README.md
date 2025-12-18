@@ -1,18 +1,36 @@
-# 💫 About Me:
-🔭 I’m currently working on <b>React App</b><br>🌱 I’m currently learning <b>Typescript</b><br>💬 Ask me about <b>Linux Ricing</b><br>⚡ Fun fact <b>I use Arch btw.</b>
+## 💫 About Me:
+Just a guy interested in software development...
+> _"Talk is cheap. Show me the code."_  
+> **— Linus Torvalds**
+> 
+<hr>
 
+### Socials:
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:admin@randomboi404.is-a.dev)
+[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](https://discord.com/users/806782240851886091)
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:admin@randomboi404.is-a.dev) 
+<hr>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=randomboi404&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=randomboi404&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=randomboi404&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### Tech Stack:
+![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)<br>
+![JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=randomboi404&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+<hr>
 
-</div>
+### ![LC](https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode2.svg):<br>
+[![LeetCode Status](https://leetcard.jacoblin.cool/randomboi404?ext=heatmap&theme=transparent&font=nunito&colors=1a1b26,414868,c0caf5,a9b1d6,7aa2f7,9ece6a,e0af68,bb9af7)
+](https://leetcode.com/u/randomboi404)
+
+<hr>
+
+### Github Stats:
+
+![randomboi404](https://github-readme-stats.vercel.app/api?username=randomboi404&show_icons=true&theme=tokyonight)
+
+![randomboi404](https://nirzak-streak-stats.vercel.app/?user=randomboi404&theme=tokyonight&hide_border=false)
+
+![randomboi404](https://github-readme-stats.vercel.app/api/top-langs/?username=randomboi404&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<hr>
+
+I use [![Arch Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg)](https://archlinux.org/) btw.
