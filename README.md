@@ -2,8 +2,6 @@
 Just a guy interested in software development...
 > _"Talk is cheap. Show me the code."_  
 > **— Linus Torvalds**
->
-> 
 
 ---
 
