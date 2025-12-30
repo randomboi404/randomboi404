@@ -14,6 +14,7 @@ Just a guy interested in software development...
 ### Tech Stack:
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)<br>
 ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)<br>
+![Rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg)<br>
 ![JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)<br>
 ![NextJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)<br>
 ![Vim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim1.svg)
@@ -21,7 +22,7 @@ Just a guy interested in software development...
 ---
 
 ### ![LC](https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode2.svg)<br>
-[![LeetCode Status](https://leetcard.jacoblin.cool/randomboi404?ext=heatmap&theme=transparent&font=nunito&colors=1a1b26,414868,c0caf5,a9b1d6,7aa2f7,9ece6a,e0af68,bb9af7)
+[![LeetCode Status](https://leetcard.jacoblin.cool/randomboi404?ext=heatmap&theme=transparent&font=nunito&colors=1a1b26,414868,c0caf5,a9bd6,7aa2f7,9ece6a,e0af68,bb9af7)
 ](https://leetcode.com/u/randomboi404)
 
 ---
