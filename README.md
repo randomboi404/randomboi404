@@ -26,6 +26,16 @@ Just a guy interested in software development...
 
 ---
 
+### // Codeforces
+
+<p align="center">
+  <a href="https://codeforces.com/profile/randomboi404">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=randomboi404&theme=tokyonight" height="300" />
+  </a>
+</p>
+
+---
+
 ### // Github Stats
 
 <p align="center">
